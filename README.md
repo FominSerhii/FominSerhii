@@ -1,16 +1,15 @@
-## Hi there 👋
+Serhii Fomin
+Senior Frontend Engineer & Team Lead specializing in Angular, React, TypeScript, frontend architecture and design systems.
 
-<!--
-**FominSerhii/FominSerhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable frontend applications, reusable component libraries and developer platforms.
 
-Here are some ideas to get you started:
+Core expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Angular · React · TypeScript · RxJS · Frontend Architecture · Design Systems · Storybook · Component Libraries
+
+Featured work
+
+Sluice — Design System & Frontend Development Platform
+
+https://serhii-portfolio.fominsergeyo15.workers.dev/
+https://www.linkedin.com/in/serhii-fomin-422b90197/
